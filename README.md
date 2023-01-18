@@ -30,3 +30,7 @@ Crear una tabla
 | Nacho | [Enlace a github](https://github.com/jrodrob861/git_2_asir) |
 | Adrián | [Enlace a github](https://github.com/areyjim770/git_2_asir) |
 | David | [Enlace a github](https://github.com/Davalomal/Git_2_asir) |
+
+	git add README.
+	git commit -m "Añado tabla de cuentas de GitHub"md
+	git push
