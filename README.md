@@ -6,3 +6,7 @@ Repositorio git_2_asir
 Push inicial
 	git push
 
+Ignorar archivos
+	git add privado.txt
+	git commit -m "añado fichero privado.txt"
+	git push
