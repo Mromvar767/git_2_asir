@@ -1,4 +1,4 @@
-# git_2_asir
+PRÁCTICA MANEJO DE GIT
 
 Repositorio git_2_asir
 	git clone git@github.com:Mromvar767/git_2_asir.git
