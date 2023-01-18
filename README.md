@@ -38,3 +38,10 @@ Crear una tabla
 Crear una rama
 	git branch v0.2
 	git checkout v0.2
+
+Añadir fichero
+	git add 2.txt
+	git commit -m "Añado fichero 2.txt"
+
+Crear rama remota
+	git push origin v0.2
