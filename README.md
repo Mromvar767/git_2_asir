@@ -16,3 +16,9 @@ Ignorar archivos
 	git rm --cached privado.txt
 	git commit -m "ignoro fichero privado.txt"
 	git push
+
+Añadir fichero '1.txt'
+	git add 1.txt
+	git commit -m "Añado fichero 1.txt"
+	git push
+
