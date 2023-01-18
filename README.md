@@ -13,4 +13,6 @@ Ignorar archivos
 	git add privada
 	git commit -m "añado carpeta privada"
 	git push
-	
+	git rm --cached privado.txt
+	git commit -m "ignoro fichero privado.txt"
+	git push
