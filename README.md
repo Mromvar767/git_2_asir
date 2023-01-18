@@ -17,8 +17,10 @@ Ignorar archivos
 	git commit -m "ignoro fichero privado.txt"
 	git push
 
-Añadir fichero '1.txt'
+Añadir fichero '1.txt' y tag v0.1
+	git tag v0.1
 	git add 1.txt
-	git commit -m "Añado fichero 1.txt"
+	git commit -m "Añado fichero 1.txt y tag v0.1"
 	git push
+	git push --tags
 
