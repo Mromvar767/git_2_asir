@@ -34,3 +34,7 @@ Crear una tabla
 	git add README.md
 	git commit -m "Añado tabla de cuentas de GitHub"md
 	git push
+
+Crear una rama
+	git branch v0.2
+	git checkout v0.2
