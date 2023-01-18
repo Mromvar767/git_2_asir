@@ -10,3 +10,7 @@ Ignorar archivos
 	git add privado.txt
 	git commit -m "añado fichero privado.txt"
 	git push
+	git add privada
+	git commit -m "añado carpeta privada"
+	git push
+	
