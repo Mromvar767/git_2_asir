@@ -49,3 +49,4 @@ Crear rama remota
 Merge directo
 	git checkout main
 	git merge v0.2
+	git push
