@@ -64,3 +64,10 @@ Arreglar conflicto
 	git add 1.txt
 	git commit -m "Arreglo conficto de fichero 1.txt"
 	git push
+
+Borrar rama
+	git tag v0.2
+	git branch -d v0.2
+	git commit -m "Borrado de la rama v0.2"
+	git push --tags
+	git push
