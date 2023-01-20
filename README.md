@@ -50,3 +50,17 @@ Merge directo
 	git checkout main
 	git merge v0.2
 	git push
+
+Merge con conflicto
+	git add 1.txt
+	git commit -m "Añado 'Hola' a 1.txt"
+	git checkout v0.2
+	git add 1.txt
+	git commit -m "Añado 'Adios' a 1.txt
+	git checkout main
+	git merge v0.2
+
+Arreglar conflicto
+	git add 1.txt
+	git commit -m "Arreglo conficto de fichero 1.txt"
+	git push
