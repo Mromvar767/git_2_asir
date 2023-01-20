@@ -45,3 +45,7 @@ Añadir fichero
 
 Crear rama remota
 	git push origin v0.2
+
+Merge directo
+	git checkout main
+	git merge v0.2
