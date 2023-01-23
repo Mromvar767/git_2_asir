@@ -71,3 +71,6 @@ Borrar rama
 	git commit -m "Borrado de la rama v0.2"
 	git push --tags
 	git push
+
+Listado de cambios
+	git log
