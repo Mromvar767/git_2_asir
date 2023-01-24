@@ -74,3 +74,13 @@ Borrar rama
 
 Listado de cambios
 	git log
+
+Colaborando en repositorios de terceros
+	git clone git@github.com:Mromvar767/git_2_asir-1.git
+	git clone git@github.com:Mromvar767/git_2_asir-2.git
+	git branch Mario
+	git checkout Mario
+	git add equipo.md
+	git commit -m "Actualizo archivo 'equipo.md'"
+	git push --set-upstream origin Mario
+	(desde git branch hasta git push lo mismo otra vez pero en el repositorio de Raúl)
